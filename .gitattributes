@@ -1,9 +1,15 @@
-*.qs linguist-language=QSharp
-*.qsproj linguist-language=QSharp
+# Q# files
+*.qs linguist-language=Q#
+*.qs linguist-detectable=true
+*.qs linguist-vendored=false
+*.qs linguist-generated=false
+*.qsproj linguist-language=Q#
+*.qsproj linguist-detectable=true
+
+# R files
 *.r linguist-language=R
 *.R linguist-language=R
 *.rmd linguist-language=R
 *.Rmd linguist-language=R
 *.rhistory linguist-language=R
-*.Rhistory linguist-language=R  
-
+*.Rhistory linguist-language=R
