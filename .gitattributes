@@ -1,10 +1,6 @@
 # Q# files
-*.qs linguist-language=Q#
-*.qs linguist-detectable=true
-*.qs linguist-vendored=false
-*.qs linguist-generated=false
-*.qsproj linguist-language=Q#
-*.qsproj linguist-detectable=true
+*.qs linguist-language=QSharp linguist-detectable=true linguist-vendored=false linguist-generated=false linguist-documentation=false
+*.qsproj linguist-language=QSharp linguist-detectable=true linguist-vendored=false
 
 # R files
 *.r linguist-language=R
