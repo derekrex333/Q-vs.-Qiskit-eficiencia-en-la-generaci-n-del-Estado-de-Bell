@@ -1,6 +1,5 @@
-*.qs linguist-language=Q#
-*.csproj linguist-language=Q#
-*.qsproj linguist-language=Q#
+*.qs linguist-language=QSharp
+*.qsproj linguist-language=QSharp
 *.r linguist-language=R
 *.R linguist-language=R
 *.rmd linguist-language=R
