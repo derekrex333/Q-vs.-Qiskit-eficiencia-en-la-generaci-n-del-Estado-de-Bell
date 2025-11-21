@@ -1,0 +1,10 @@
+*.qs linguist-language=Q#
+*.csproj linguist-language=Q#
+*.qsproj linguist-language=Q#
+*.r linguist-language=R
+*.R linguist-language=R
+*.rmd linguist-language=R
+*.Rmd linguist-language=R
+*.rhistory linguist-language=R
+*.Rhistory linguist-language=R  
+
