@@ -167,8 +167,6 @@ El procesamiento, comparación y visualización de datos se realizaron con R uti
 
 ### ⭐ Gráfica utilizada
 
-*(La imagen que subiste aparece aquí en el repositorio)*
-
 ```r
 library(ggplot2) 
 library(dplyr) 
