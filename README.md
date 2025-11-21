@@ -263,7 +263,7 @@ p <- ggplot(datos, aes(x = Métrica, y = Valor, fill = Framework)) +
 print(p)
 ```
 
-
+<img src="rstudio/comparacion de rendimiento.png" width="100%" height="auto">
 
 ---
 
